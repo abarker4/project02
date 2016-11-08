@@ -1,0 +1,135 @@
+.page-footer {
+	clear: both;
+	text-align: center;
+}
+
+header a{
+    color: #0033cc;
+    font-family: 'Inconsolata', fantasy;
+	font-size: 75px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+._colophon{
+margin-top: 20px;
+margin-bottom: 20px;
+border-top: 10px #4d4d4d solid;
+border-bottom: 10px #4d4d4d solid;
+}
+
+._colophon h2{
+	color: #b3b3b3;
+}
+
+._colophon h3{
+	color: #b3b3b3;
+}
+
+._index{
+margin-top: 20px;
+
+border-top: 10px #4d4d4d solid;
+border-bottom: 10px #4d4d4d solid;
+}
+
+._index h2{
+	color: #b3b3b3;
+}
+
+._index p{
+	color: #b3b3b3;
+	margin-top: -100px;
+}
+
+._tbl{
+margin-top: 20px;
+
+border-top: 10px #4d4d4d solid;
+border-bottom: 10px #4d4d4d solid;
+}
+
+._tbl h2{
+	color: #b3b3b3;
+}
+
+._mh{
+margin-top: 20px;
+
+border-top: 10px #4d4d4d solid;
+border-bottom: 10px #4d4d4d solid;
+}
+
+._mh h2{
+	color: #b3b3b3;
+}
+
+._gh{
+margin-top: 20px;
+
+border-top: 10px #4d4d4d solid;
+border-bottom: 10px #4d4d4d solid;
+}
+
+._gh h2{
+	color: #b3b3b3;
+}
+
+h2{
+	font-size :330%;
+}
+
+.carousel .carousel-item {
+	width:400px;
+}
+
+.carousel a {
+	color: grey;
+	text-align: center;
+}
+
+body{
+    background-image: url(../images/blacky.jpg);
+    color:white;
+}
+
+.card p{
+	color: black;
+}
+
+.card a{
+	color: white;
+}
+
+.card a:hover{
+	color: black;
+}
+
+.page-footer a:hover{
+	color: black;
+}
+
+
+.card-content a {
+	color: black;
+}
+
+.card-content a:hover{
+	color: #66b3ff;
+}
+
+
+@media (max-width: 300px) {
+	body {
+		background-image: none;
+	}
+}
+
+@media (max-width: 480px) {
+	body {
+		background-image: none;
+		color: black;
+	}
+}
