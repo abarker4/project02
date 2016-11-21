@@ -42,6 +42,10 @@ header a{
 	font-weight: bold;
 }
 
+.project1 a:hover {
+	color: gray;
+}
+
 
 
 ._colophon{
