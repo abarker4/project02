@@ -6,11 +6,11 @@
 
 
 	<ul class="right hide-on-med-and-down">
-		<li><a href="index.php">Home</a></li>
-		<li><a href="tim-berners-lee.php">Tim Berners-Lee</a></li>
-		<li><a href="grace-hopper.php">Grace Hopper</a></li>
-		<li><a href="margaret-hamilton.php">Margaret Hamilton</a></li>
-		<li><a href="colophon.php">Colophon</a></li>
+		<li id = "home"><a href="index.php">Home</a></li>
+		<li class = "hover"><a href="tim-berners-lee.php">Tim Berners-Lee</a></li>
+		<li class = "hover"><a href="grace-hopper.php">Grace Hopper</a></li>
+		<li class = "hover"><a href="margaret-hamilton.php">Margaret Hamilton</a></li>
+		<li class = "hover"><a href="colophon.php">Colophon</a></li>
 	</ul>
 
 	<ul class="side-nav" id="mobile-demo">

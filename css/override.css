@@ -26,6 +26,24 @@ header a{
 	line-height: 26.4px;
 }
 
+/* Nav bar elements */
+#home a {
+	font-size: 1.2em;
+}
+
+#home a:hover {
+	color: black;
+	font-size: 1.4em;
+	font-weight: bold;
+}
+.hover a:hover {
+	color: black;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+
+
 ._colophon{
 margin-top: 20px;
 margin-bottom: 20px;
