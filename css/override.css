@@ -11,6 +11,11 @@
 	color: black;
 }
 
+.popout p {
+	background-color: #333333;
+	margin: 20px;
+}
+
 header a{
     color: #f2f2f2;
     font-family: 'helvetica neue', arial, sans-serif;

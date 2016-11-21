@@ -26,37 +26,37 @@
 				</div> <!-- carousel-->
 				<!-- Add content to the popup -->
 				
-				<div id="tbl_popup">
+				<div class="popout" id="tbl_popup">
 
-				    Tim Berners-Lee. He's done things. Here's a picture of him.
+				    <p>Tim Berners-Lee. He's done things. Here's a picture of him.</p>
 
 				    <!-- Add an optional button to close the popup -->
 				    <!-- <button class="tbl_popup_close">Close</button> -->
 
 				</div><!-- tbl_popup -->
-				<div id="fm_popup">
+				<div class="popout" id="fm_popup">
 
-				    Ferranti Mark 1. He's done things. Here's a picture of him.
-
-				</div><!-- tbl_popup -->
-				<div id="gh_popup">
-
-				    Grace Hopper. He's done things. Here's a picture of him.
+				    <p>Ferranti Mark 1. He's done things. Here's a picture of him.</p>
 
 				</div><!-- tbl_popup -->
-				<div id="uni_popup">
+				<div class="popout" id="gh_popup">
 
-				    UNIVAC. He's done things. Here's a picture of him.
+				    <p>Grace Hopper. He's done things. Here's a picture of him.</p>
+
+				</div><!-- tbl_popup -->
+				<div class="popout" id="uni_popup">
+
+				    <p>UNIVAC. He's done things. Here's a picture of him.</p>
 
 				 </div><!-- tbl_popup -->
-				<div id="mh_popup">
+				<div class="popout" id="mh_popup">
 
-				    Margaret Hamilton. He's done things. Here's a picture of him.
+				    <p>Margaret Hamilton. He's done things. Here's a picture of him.</p>
 
 				</div><!-- tbl_popup -->
-				<div id="afs_popup">
+				<div class="popout" id="afs_popup">
 
-				    Apollo flight software. He's done things. Here's a picture of him.
+				    <p>Apollo flight software. He's done things. Here's a picture of him.</p>
 
 				</div><!-- tbl_popup -->
 
@@ -153,6 +153,7 @@
              
 	</div><!--.container-->
 
+	
 	<script src="js/materialize.min.js"></script>
 
 	<script type="text/javascript">
@@ -160,16 +161,36 @@
 		//$(".button-collapse").sideNav();//mobile screen menu init
 		$('.carousel').carousel(); //carousel init
 		//carousel popups
-		$('#tbl_popup').popup();
-		$('#fm_popup').popup();
-		$('#gh_popup').popup();
-		$('#uni_popup').popup();
-		$('#mh_popup').popup();
-		$('#afs_popup').popup();
+		$('#tbl_popup').popup({
+			opacity: .75,
+			scrolllock: true
+		});
+		$('#fm_popup').popup({
+			opacity: .75,
+			scrolllock: true
+		});
+		$('#gh_popup').popup({
+			opacity: .75,
+			scrolllock: true
+		});
+		$('#uni_popup').popup({
+			opacity: .75,
+			scrolllock: true
+		});
+		$('#mh_popup').popup({
+			opacity: .75,
+			scrolllock: true
+		});
+		$('#afs_popup').popup({
+			opacity: .75,
+			scrolllock: true
+		});
 
 	});
 	</script>
 	<script>$(".button-collapse").sideNav();</script>
+
+	</div>
 
 </body>
 </html>
