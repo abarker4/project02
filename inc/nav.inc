@@ -1,7 +1,7 @@
 <nav class="nav blue darken-3">
 	<div class="nav-wrapper">
  
-    <a href="#!" class="brand-logo">Project 1</a>
+    <a href="index.php" class="brand-logo">Project 1</a>
     <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
 
 
