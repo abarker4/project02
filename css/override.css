@@ -26,7 +26,7 @@ header a{
 	line-height: 26.4px;
 }
 
-/* Nav bar elements */
+/* Nav bar elements --------------*/
 #home a {
 	font-size: 1.2em;
 }
@@ -46,6 +46,37 @@ header a{
 	color: gray;
 }
 
+/* End of nav bar ------------------*/
+
+
+
+/* Aside -------------------------*/
+
+aside h4 {
+	text-align: center;
+}
+aside li {
+	margin-top: 10px;
+}
+
+
+/* For Tim Barners-Lee page */
+.inner {
+	margin-left: 20px;
+}
+
+.year li{
+	list-style-type: square;
+}
+
+/* For Margaret and Grace page */
+
+.insideList li {
+	list-style-type: square;
+	margin-left: 20px;
+}
+
+/* End of aside--------------------*/
 
 
 ._colophon{
@@ -132,6 +163,7 @@ body{
     font-family: 'lucida sans', arial, sans-serif;
 
 }
+
 
 .card p{
 	color: black;

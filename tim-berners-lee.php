@@ -55,245 +55,243 @@
 
             <aside class="col s12 m4 s4">
 
-				<h3>Awards and Honours</h3>
+				<h4>Awards and Honours</h4>
 
 					<ul>
-						<li>
-							1994
-							 <ul>
-							 	<li>
+						<li class = "year">1994
+							<ul>
+							 	<li class= "inner">
 							 		Became one of only six members of the World Wide Web Hall of Fame.
 							 	</li>
-							 </ul>
+							</ul>
 						</li>
-						<li>
-							1995
+
+						<li class = "year">1995
 							<ul>
-								<li>
+								<li class= "inner">
 									Kilby Foundation's "Young Innovator of the Year" Award.
 								</li>
-								<li>
+								<li class= "inner">
 									The Software System Award from the Association for Computing Machinery (ACM).
 								</li>
-								<li>
+								<li class= "inner">
 									Distinguished Fellow of the British Computer Society (DFBCS).
 								</li>
 							</ul>
 						</li>
-						<li>
-							1996
+
+						<li class = "year">1996
 							<ul>
-								<li>
+								<li class= "inner">
 									Honorary degree, University of Southampton.
 								</li>
 							</ul>
 						</li>
-						<li>
-							1997
+
+						<li class = "year">1997
 							<ul>
-								<li>
+								<li class= "inner">
 									Appointed an Officer of the Order of the British Empire (OBE) "for services to global computer networking".
 								</li>
 							</ul>
 						</li>
-						<li>
-							1998
+
+						<li class = "year">1998
 							<ul>
-								<li>
+								<li class= "inner">
 									Honorary doctorate, University of Essex.
 								</li>
-								<li>
+								<li class= "inner">
 									The USENIX Lifetime Achievement Award, USENIX.
 								</li>
 							</ul>
 						</li>
-						<li>
-							1999
+
+						<li class = "year">1999
 							<ul>
-								<li>
-									: Time Magazine named him one of the 100 Most Important People of the 20th century
+								<li class= "inner">
+									Time Magazine named him one of the 100 Most Important People of the 20th century
 								</li>
 							</ul>
 						</li>
-						<li>
-							2000
+
+						<li class = "year">2000
 							<ul>
-								<li>
+								<li class= "inner">
 									Honorary degree, The Open University as Doctor of the University
 								</li>
 							</ul>
 						</li>
-						<li>
-							2001
+
+						<li class = "year">2001
 							<ul>
-								<li>
+								<li class= "inner">
 									Elected a Fellow of the Royal Society.
 								</li>
-								<li>
+								<li class= "inner">
 									Elected a Fellow of the American Academy of Arts and Sciences.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2002
+
+						<li class = "year">2002
 							<ul>
-								<li>
+								<li class= "inner">
 									Albert Medal (Royal Society of Arts).
 								</li>
-								<li>
+								<li class= "inner">
 									Named in the BBC's list of the 100 Greatest Britons following a UK-wide vote.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2003
+
+						<li class = "year">2003
 							<ul>
-								<li>
+								<li class= "inner">
 									The Royal Photographic Society's Progress Medal and Honorary Fellowship (HonFRPS).
 								</li>
-								<li>
+								<li class= "inner">
 									Received the Computer History Museum's Fellow Award.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2004
+
+						<li class = "year">2004
 							<ul>
-								<li>
+								<li class= "inner">
 									First recipient of Finland's Millennium Technology Prize.
 								</li>
-								<li>
+								<li class= "inner">
 									 Promoted to Knight Commander of the Order of the British Empire (KBE) in the New Year Honours.
 								</li>
-								<li>
+								<li class= "inner">
 									Honorary Doctor of Science degree, Lancaster University.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2005
+
+						<li class = "year">2005
 							<ul>
-								<li>
+								<li class= "inner">
 									Named Greatest Briton of 2004.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2007
+
+						<li class = "year">2007
 							<ul>
-								<li>
+								<li class= "inner">
 									Ranked Joint First, alongside Albert Hofmann, in The Telegraph's list of 100 greatest living geniuses.
 								</li>
-								<li>
+								<li class= "inner">
 									Became a member of the Order of Merit.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2008
+
+						<li class = "year">2008
 							<ul>
-								<li>
+								<li class= "inner">
 									IEEE/RSE Wolfson James Clerk Maxwell Award.
 								</li>
-								<li>
+								<li class= "inner">
 									 Honorary doctorate, University of Manchester.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2009
+
+						<li class = "year">2009
 							<ul>
-								<li>
+								<li class= "inner">
 									Honorary doctorate, Universidad Politécnica de Madrid.
 								</li>
-								<li>
+								<li class= "inner">
 									Elected a foreign associate of the United States National Academy of Sciences.
 								</li>
-								<li>
+								<li class= "inner">
 									Webby Award for Lifetime Achievement.
 								</li>
-								<li>
+								<li class= "inner">
 									Honorary doctorate, Vrije Universiteit Amsterdam.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2011
+
+						<li class = "year">2011
 							<ul>
-								<li>
+								<li class= "inner">
 									One of the first three recipients of the Mikhail Gorbachev award for "The Man Who Changed the World".
 								</li>
-								<li>
+								<li class= "inner">
 									Honorary Doctor of Science degree, Harvard University.
 								</li>
-								<li>
+								<li class= "inner">
 									Inducted into IEEE Intelligent Systems' AI's Hall of Fame.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2012
+
+						<li class = "year">2012
 							<ul>
-								<li>
+								<li class= "inner">
 									Inducted into the Internet Hall of Fame by the Internet Society.
 								</li>
-								<li>
+								<li class= "inner">
 									Recognised for the invention of the World Wide Web in the 2012 Summer Olympics opening ceremony.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2013
+
+						<li class = "year">2013
 							<ul>
-								<li>
+								<li class= "inner">
 									One of five Internet and Web pioneers awarded the inaugural Queen Elizabeth Prize for Engineering.
 								</li>
-								<li>
+								<li class= "inner">
 									Honorary Doctor of Science degree, University of St Andrews.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2014
+
+						<li class = "year">2014
 							<ul>
-								<li>
+								<li class= "inner">
 									Honorary Doctor of Engineering and Technology degree, Yale University.
 								</li>
-								<li>
+								<li class= "inner">
 									Honorary Doctor of Science degree, Rensselaer Polytechnic Institute.
 								</li>
-								<li>
+								<li class= "inner">
 									Honorary Freedom of the City of London.
 								</li>
-								<li>
+								<li class= "inner">
 									Pride of Britain "Special Award for Outstanding Achievement".
 								</li>
-								<li>
+								<li class= "inner">
 									Mohammed bin Rashid Knowledge Award that was shared with Jimmy Wales.
 								</li>
 							</ul>
 						</li>
-						<li>
-							2015
+
+						<li class = "year">2015
 							<ul>
-								<li>
+								<li class= "inner">
 									Gottlieb Duttweiler Prize in Zurich, Switzerland.
 								</li>
-								<li>
+								<li class= "inner">
 									Signed into the Order of the Cross of Terra Mariana (Class I).
 								</li>
 							</ul>
 						</li>
-						<li>
-							2016
+
+						<li class = "year">2016
 							<ul>
-								<li>
+								<li class= "inner">
 									Received the John Maynard Keynes Prize.
 								</li>
 							</ul>
 						</li>
 					</ul>
-
             </aside>
 	</div><!--.row-->
 	</div><!--.bodycolor-->

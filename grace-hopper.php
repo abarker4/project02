@@ -49,9 +49,9 @@
 
             <aside class="col s12 m4 s4">
 
-				<h3>Awards and Recognition</h3>
-
-					<ul>
+				<h4>Awards and Recognition</h4>
+					
+					<ul class = "insideList">
 						<li>
 							In 1969, Hopper was awarded the inaugural Data Processing Management Association Man of the Year award.
 						</li>
@@ -83,7 +83,7 @@
 							In 1996, USS Hopper (DDG-70) was launched. Nicknamed Amazing Grace, it is on a very short list of U.S. military vessels named after women.
 						</li>
 						<li>
-							In 2001, Eavan Boland wrote a poem dedicated to Grace Hopper titled "Code" in her 2001 release <em>Against Love Poetry</em> and The Gracies, the Government Technology Leadership Award, were named in her honor.[38]
+							In 2001, Eavan Boland wrote a poem dedicated to Grace Hopper titled "Code" in her 2001 release <em>Against Love Poetry</em> and The Gracies, the Government Technology Leadership Award, were named in her honor.
 						</li>
 						<li>
 							In 2009, the Department of Energy's National Energy Research Scientific Computing Center named its flagship system "Hopper" and the Office of Naval Intelligence created the Grace Hopper Information Services Center.
@@ -91,7 +91,7 @@
 						<li>
 							In 2013, Google made the Google Doodle for Hopper's 107th birthday an animation of her sitting at a computer, using COBOL to print out her age.
 						</li>
-					</ul>
+					</ol>
 
             </aside>
         </div><!--.row-->

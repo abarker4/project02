@@ -47,9 +47,9 @@
 		</article>
             	<aside class="col s12 m4 s4">
 
-				<h3>Awards</h3>
+				<h4>Awards</h4>
 
-					<ul>
+					<ul class = "insideList">
 						<li>
 							In 1986, she received the Augusta Ada Lovelace Award by the Association for Women in Computing.
 						</li>
@@ -61,9 +61,9 @@
 						</li>
 					</ul>
 
-				<h3>Publications</h3>
+				<h4>Publications</h4>
 					
-					<ul>
+					<ul class = "insideList">
 						<li>
 							<em>Inside Development Before the Fact</em>, published by Electronic Design in 1994.
 						</li>
@@ -88,7 +88,6 @@
 					<figure>
 						<img src="images/skylab.jpg" alt="Skylab">
 					</figure>
-
 
           	  </aside>
 	</div><!--.row-->
