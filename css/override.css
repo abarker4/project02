@@ -11,6 +11,10 @@
 	color: black;
 }
 
+figure{
+	float: right;
+	margin: 0 0 10px 10px;
+}
 
 header a{
     color: #f2f2f2;
