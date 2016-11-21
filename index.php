@@ -17,13 +17,48 @@
 				<h2>Computer Science Contributors</h2>
 
 				<div class="carousel">
-		    		<a class="carousel-item" href="#one!"><img src="images/ss1.jpg" alt="">Tim Berners-Lee</a>
-		   			<a class="carousel-item" href="#two!"><img src="images/ss2.gif" alt="">Ferranti Mark 1</a>
-		    		<a class="carousel-item" href="#three!"><img src="images/ss3.jpg" alt="">Grace Hopper</a>
-		    		<a class="carousel-item" href="#four!"><img src="images/ss4.jpg" alt="">UNIVAC I</a>
-		   			<a class="carousel-item" href="#five!"><img src="images/ss5.jpg" alt="">Magaret Hamilton</a>
-		    		<a class="carousel-item" href="#six!"><img src="images/ss6.jpg" alt="">Apollo flight software</a>
+		    		<a class="carousel-item tbl_popup_open" href="#one!"><img src="images/ss1.jpg" alt="">Tim Berners-Lee</a>
+		   			<a class="carousel-item fm_popup_open" href="#two!"><img src="images/ss2.gif" alt="">Ferranti Mark 1</a>
+		    		<a class="carousel-item gh_popup_open" href="#three!"><img src="images/ss3.jpg" alt="">Grace Hopper</a>
+		    		<a class="carousel-item uni_popup_open" href="#four!"><img src="images/ss4.jpg" alt="">UNIVAC I</a>
+		   			<a class="carousel-item mh_popup_open" href="#five!"><img src="images/ss5.jpg" alt="">Magaret Hamilton</a>
+		    		<a class="carousel-item afs_popup_open" href="#six!"><img src="images/ss6.jpg" alt="">Apollo flight software</a>
 				</div> <!-- carousel-->
+				<!-- Add content to the popup -->
+				
+				<div id="tbl_popup">
+
+				    Tim Berners-Lee. He's done things. Here's a picture of him.
+
+				    <!-- Add an optional button to close the popup -->
+				    <!-- <button class="tbl_popup_close">Close</button> -->
+
+				</div><!-- tbl_popup -->
+				<div id="fm_popup">
+
+				    Ferranti Mark 1. He's done things. Here's a picture of him.
+
+				</div><!-- tbl_popup -->
+				<div id="gh_popup">
+
+				    Grace Hopper. He's done things. Here's a picture of him.
+
+				</div><!-- tbl_popup -->
+				<div id="uni_popup">
+
+				    UNIVAC. He's done things. Here's a picture of him.
+
+				 </div><!-- tbl_popup -->
+				<div id="mh_popup">
+
+				    Margaret Hamilton. He's done things. Here's a picture of him.
+
+				</div><!-- tbl_popup -->
+				<div id="afs_popup">
+
+				    Apollo flight software. He's done things. Here's a picture of him.
+
+				</div><!-- tbl_popup -->
 
 				<p>While computer science is quite young in comparison to other areas of study it is of great importance in this day and age. This field of study has had many advancements in the past century throughout its many subdivisions. Tim Berners-Lee, Grace Hpper, and Margaret Hamilton have each made important contributions in their respective areas.</p>
 
@@ -115,7 +150,7 @@
 
 
 		<?php include "inc/footer.inc" ?>
-            
+             
 	</div><!--.container-->
 
 	<script src="js/materialize.min.js"></script>
@@ -124,6 +159,14 @@
 	$( document ).ready(function(){
 		//$(".button-collapse").sideNav();//mobile screen menu init
 		$('.carousel').carousel(); //carousel init
+		//carousel popups
+		$('#tbl_popup').popup();
+		$('#fm_popup').popup();
+		$('#gh_popup').popup();
+		$('#uni_popup').popup();
+		$('#mh_popup').popup();
+		$('#afs_popup').popup();
+
 	});
 	</script>
 	<script>$(".button-collapse").sideNav();</script>
