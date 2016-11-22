@@ -91,7 +91,7 @@
 						<li>
 							In 2013, Google made the Google Doodle for Hopper's 107th birthday an animation of her sitting at a computer, using COBOL to print out her age.
 						</li>
-					</ol>
+					</ul>
 
             </aside>
         </div><!--.row-->
@@ -101,7 +101,7 @@
 </div><!--.container-->
 <script src="js/materialize.min.js"></script>
 
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
 $( document ).ready(function(){
 	//$(".button-collapse").sideNav();//mobile screen menu init
 	$('.carousel').carousel(); //carousel init

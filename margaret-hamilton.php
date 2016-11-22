@@ -97,7 +97,7 @@
 </div><!--.container-->
 <script src="js/materialize.min.js"></script>
 
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
 $( document ).ready(function(){
 	//$(".button-collapse").sideNav();//mobile screen menu init
 	$('.carousel').carousel(); //carousel init
