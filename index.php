@@ -190,7 +190,7 @@
 	</script>
 	<script>$(".button-collapse").sideNav();</script>
 
-	</div>
+
 
 </body>
 </html>
